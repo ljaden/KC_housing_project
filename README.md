@@ -2,15 +2,16 @@
 
 ### Table of Content
 I. <b>Data</b><br>
-    kc_house_data.csv<br>
-        -dataset of King County House Sales<br>
-    top_50_zips.csv<br>
+       kc_house_data.csv
+      - dataset of King County House Sales<br>
+       top_50_zips.csv
         -consist of the top 50 zipcodes of Washington State by median house prices<br>
 II. <b>Images</b><br>
-    -screenshots used in notebook and presentation<br>
+       - screenshots used in notebook and presentation<br>
 III. <b>Project.ipynb</b><br>
-    - all of the code to the project<br>
+        - all of the code to the project<br>
 IV. <b>README</b>
+
 
 
 ### Overview
@@ -22,10 +23,10 @@ This notebook consist of data cleaning, EDA, and basic multilinear regression mo
 ### Questions
 
 I. What do consumer look for?
-    3 catergories come to mind when housing hunting; LOCATION of home, FEATURES such as # of be/bathrooms,size, etc., and Quality of home.
+>3 catergories come to mind when housing hunting; LOCATION of home, FEATURES such as # of be/bathrooms,size, etc., and Quality of home.
     
 II. Are there external factors that could affect our data?
-    After creating a price comparison by floors I notice a decrease of price from two floor homes to three floor home. Which lead me to discover that King County is right on top of the Seattle Fault. Plus the fact that it near bodies of water makes them prone to earthquakes and tsunami
+>After creating a price comparison by floors I notice a decrease of price from two floor homes to three floor home. Which lead me to discover that King County is right on top of the Seattle Fault. Plus the fact that it near bodies of water makes them prone to earthquakes and tsunami
 
 
 ### Future Improvements
