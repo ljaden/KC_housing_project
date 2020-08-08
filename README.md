@@ -2,9 +2,9 @@
 
 ### Table of Content
 I. <b>Data</b><br>
-       kc_house_data.csv
-      - dataset of King County House Sales<br>
-       top_50_zips.csv
+       kc_house_data.csv<br>
+      - dataset of King County House Sales
+       top_50_zips.csv<br>
         -consist of the top 50 zipcodes of Washington State by median house prices<br>
 II. <b>Images</b><br>
        - screenshots used in notebook and presentation<br>
