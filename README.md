@@ -5,11 +5,11 @@ I. <b>Data</b><br>
        kc_house_data.csv<br>
       - dataset of King County House Sales
        top_50_zips.csv<br>
-        -consist of the top 50 zipcodes of Washington State by median house prices<br>
+        -consist of the top 50 zipcodes of Washington State by median house prices<br><br>
 II. <b>Images</b><br>
-       - screenshots used in notebook and presentation<br>
+       - screenshots used in notebook and presentation<br><br>
 III. <b>Project.ipynb</b><br>
-        - all of the code to the project<br>
+        - all of the code to the project<br<br>
 IV. <b>README</b>
 
 
