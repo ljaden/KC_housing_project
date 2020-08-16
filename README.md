@@ -9,7 +9,7 @@ I. <b>Data</b><br>
 II. <b>Images</b><br>
        - screenshots used in notebook and presentation<br><br>
 III. <b>Project.ipynb</b><br>
-        - all of the code to the project<br<br>
+        - all of the code to the project<br><br>
 IV. <b>README</b>
 
 
